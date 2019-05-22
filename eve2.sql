@@ -1,8 +1,8 @@
---create customer table
-drop table customers_backup;
-drop table customers;
-drop table address;
-SET SERVEROUTPUT ON;
+this is the steps:	--create customer table
+			drop table customers_backup;
+			drop table customers;
+			drop table address;
+			SET SERVEROUTPUT ON;
 
 CREATE TABLE address(
 	id number(5) PRIMARY KEY,
