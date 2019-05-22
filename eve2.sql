@@ -140,9 +140,7 @@ BEGIN
 END;
 /
 
-Begin
-deleteCustomers(101);
-end;
+changes here...
 
 	
 
